@@ -3,10 +3,10 @@
 - 🔭 Desenvolvedora Front-End
 - 🌱 Estudando React.Js
 
-<div style="display: inline_block" align="center">
+<div align="center">
   <a href="https://github.com/fernandaconstancia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandaconstancia&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaconstancia&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaconstancia&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
  <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
    <img align="center" alt="Feh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Feh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Feh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<!--   <img align="center" alt="Feh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> --> 
+<img align="center" alt="Feh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <!--   <img align="center" alt="Feh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Feh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
