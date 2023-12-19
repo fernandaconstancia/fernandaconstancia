@@ -1,21 +1,25 @@
 ### Olá, eu sou Fernanda Constância 👋
 
 - 🔭 Desenvolvedora Front-End
-- 🌱 Estudando React.Js
+- 🌱 Estudando Nuxt.Js
 
 <div align="center">
-  <a href="https://github.com/fernandaconstancia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandaconstancia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaconstancia&layout=compact&langs_count=7&theme=dracula"/>
+<!--   <a href="https://github.com/fernandaconstancia"> -->
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=fernandaconstancia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&&hide=stars,issues,contribs"/>
+  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaconstancia&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+<!--   <img width=50% align="center" src="https://github-readme-stats-git-main-fernandaconstancia.vercel.app/api/top-langs/?username=fernandaconstancia&show_icons=true&theme=radical&layout=compact" /> -->
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaconstancia&layout=compact&langs_count=7&theme=vue-dark"/> -->
 </div>
 
  <div style="display: inline_block"><br>
    <img align="center" alt="Feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Feh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Feh-tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
    <img align="center" alt="Feh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Feh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Feh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="Feh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="Feh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+   <img align="center" alt="Feh-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   <img align="center" alt="Feh-nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
 <!--   <img align="center" alt="Feh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Feh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
