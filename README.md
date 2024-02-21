@@ -4,9 +4,9 @@
 - 🌱 Estudando Nuxt.Js
 
 <div align="center">
-  <a href="https://github.com/fernandaconstancia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandaconstancia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&&hide=stars,issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaconstancia&layout=compact&langs_count=10&theme=dracula&count_private=true"/>
+  <a href="https://github.com/fernandaconstancia" >
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=fernandaconstancia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&&hide=stars,issues,contribs"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaconstancia&layout=compact&langs_count=10&theme=dracula&count_private=true"/>
 </div>
 
  <div style="display: inline_block"><br>
